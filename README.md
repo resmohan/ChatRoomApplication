@@ -20,7 +20,7 @@ The project aims to build a simple chat room application to finish the following
 * Client side: Send a message that is public in the chat room, or that goes directly to a single, specified client;
 * Protocol part: Deal with the input message; transfer and process the message as the MessageFormat type.
 
-Details are available in the RequirementDoc[ChatRoomApplication/RequirementDoc.pdf].
+Details are available in the [RequirementDoc](ChatRoomApplication/RequirementDoc.pdf).
 
 ## How to Launch the App
 
